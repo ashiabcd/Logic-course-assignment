@@ -7,7 +7,7 @@ Ashi Sinha 2017B5A71149H
 */
 // contains functions for basic operations on stack.
 //#include<stdio.h>
-// author : Rashi Jain, 11/10/19
+
 
 // stack : character array used for implementation.
 // max : integer variable denoting maximum size of array.
