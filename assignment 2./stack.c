@@ -1,26 +1,5 @@
 
 
-Skip to content
-Using BITS Pilani University Mail with screen readers
-meganaa 
-Meet
-Start a meeting
-Join a meeting
-Hangouts
-
-29 of 34
-Day2 Day3 logic ass-2
-Inbox
-x
-
-Meganaa Reddy <f20170973@hyderabad.bits-pilani.ac.in>
-Attachments
-Nov 8, 2019, 7:51 PM
-to me, PRANAVI
-
-pfa
-
-23 Attachments
 
 /*
 Group no=A12
